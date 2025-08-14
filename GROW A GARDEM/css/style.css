@@ -1,0 +1,22 @@
+#login {
+    width: 100px; 
+    background-color: red;
+    color: #f7f7f7;
+    border-radius: 20px; 
+    border: none;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+#navbar {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
